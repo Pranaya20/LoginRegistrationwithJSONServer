@@ -1,0 +1,166 @@
+{
+  "user": [
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 1
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "0987 966 2938",
+      "email": "udaya276@gmail.com",
+      "password": "1234",
+      "Confirmpassword": "1234",
+      "id": 2
+    },
+    {
+      "firstname": "Amrita",
+      "lastname": "Patro",
+      "phoneno": "9438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "123",
+      "Confirmpassword": "123",
+      "id": 3
+    },
+    {
+      "firstname": "Amrita",
+      "lastname": "Patro",
+      "phoneno": "9438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "123",
+      "Confirmpassword": "123",
+      "id": 4
+    },
+    {
+      "firstname": "susmita",
+      "lastname": "padhi",
+      "phoneno": "0987 966 2938",
+      "email": "susmita276@gmail.com",
+      "password": "123",
+      "Confirmpassword": "123",
+      "id": 5
+    },
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 6
+    },
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "111@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 7
+    },
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "222",
+      "Confirmpassword": "222",
+      "id": 8
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "09437780550",
+      "email": "udaya276@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 9
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "09437780550",
+      "email": "udaya276@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 10
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "09437780550",
+      "email": "udaya276@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 11
+    },
+    {
+      "firstname": "dfdddd",
+      "lastname": "Patro",
+      "phoneno": "9438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "www",
+      "Confirmpassword": "wwww",
+      "id": 12
+    },
+    {
+      "firstname": "dfdddd",
+      "lastname": "Patro",
+      "phoneno": "9438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "www",
+      "Confirmpassword": "wwww",
+      "id": 13
+    },
+    {
+      "firstname": "dfdddd",
+      "lastname": "Patro",
+      "phoneno": "9438490285",
+      "email": "patropranaya23@gmail.com",
+      "password": "www",
+      "Confirmpassword": "wwww",
+      "id": 14
+    },
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "123@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 15
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "0987 966 2938",
+      "email": "udaya276@gmail.com",
+      "password": "111",
+      "Confirmpassword": "111",
+      "id": 16
+    },
+    {
+      "firstname": "pranaya pournamashi",
+      "lastname": "patro",
+      "phoneno": "09438490285",
+      "email": "123@gmail.com",
+      "password": "123",
+      "Confirmpassword": "123",
+      "id": 17
+    },
+    {
+      "firstname": "Udaya",
+      "lastname": "Giri",
+      "phoneno": "0987 966 2938",
+      "email": "udaya276@gmail.com",
+      "password": "1",
+      "Confirmpassword": "1",
+      "id": 18
+    }
+  ]
+}

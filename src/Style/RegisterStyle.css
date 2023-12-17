@@ -1,0 +1,12 @@
+.main-container{
+    width:100%;
+    background:rgb(220, 222, 224);
+    padding:30px;
+    width:500px;
+    margin:auto;
+    margin-top:20px;
+    border-radius:20px;
+}
+.error-msg{
+    color:red;
+}
